@@ -7,6 +7,10 @@
   Github Explorer
 </h3>
 
+<h1 align="center">
+    <img alt="GoStack" src="https://raw.githubusercontent.com/ChrisHenriqueOliveira/GithubExplorer/master/githubexplorer.png" width="500px" />
+</h1>
+
 ## 📢 Sobre o desafio / About the challenge
 
 :brazil:
