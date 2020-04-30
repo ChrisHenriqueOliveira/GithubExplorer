@@ -32,13 +32,13 @@ Project developed in order to work more initial concepts of ReactJS, already add
 ## 🚀 Instalação e execução / Installation and execution
 :brazil:
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd GithubExplorer`;
+2. Entre na pasta rodando `cd github-explorer`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn test` para rodar os testes.
 
 :us:
 1. Clone this repository;
-2. Enter the folder by running `cd GithubExplorer`;
+2. Enter the folder by running `cd github-explorer`;
 3. Run `yarn` to install the dependencies;
 4. Run `yarn start` to run.
 
